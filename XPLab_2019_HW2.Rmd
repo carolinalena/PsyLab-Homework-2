@@ -1,5 +1,5 @@
 ---
-title: "Homework Task 2 -- Basics in R"
+title: "Homework Task 2 -- Basics in R"  
 date: 'Due: Thursday, May 2 by 08:59 CET'
 author: "Carolin Eckert, Marc Zeller"
 output:
